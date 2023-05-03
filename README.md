@@ -1,11 +1,9 @@
-The notebooks included are: ImageMerger, LightCurves, RotationSplit, Spitzer, & ydeg_test.
+#### The notebooks included are: SpitzerLightCurves, SurfaceMaps, TESSLightCurves & Xianyu_Maps.
 
-The ImageMerger notebook makes animations of the light curves and map.
+The SpitzerLightCurves notebook generates Starry light curve fits and surface maps from Spitzer data.
 
-The LightCurves notebook is for processing light curve data.
+The SurfaceMaps notebook generates Starry light curve fits and surface maps from simulated brown dwarf atmospheres.
 
-The RotationSplit notebook is for splitting light curves into their individual rotations and maping maps of them.
+The TESSLightCurves notebook generates Starry light curve fits and surface maps from TESS data.
 
-The Spitzer notebook processes light curves for Spizter data.
-
-The ydeg_test notebook is for comparing the results changing the ydeg variable has on maps.
+The Xianyu_Maps notebook plots the simulated atmospheres in Starry and generates histograms.
