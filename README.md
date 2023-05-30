@@ -1,6 +1,4 @@
-### The notebooks included are: SpitzerLightCurves, SurfaceMaps, TESSLightCurves & Xianyu_Maps.
-
-The SpitzerLightCurves notebook generates Starry light curve fits and surface maps from Spitzer data.
+### The notebooks included are: SurfaceMaps, TESSLightCurves & Xianyu_Maps.
 
 The SurfaceMaps notebook generates Starry light curve fits and surface maps from simulated brown dwarf atmospheres.
 
